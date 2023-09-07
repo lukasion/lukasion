@@ -1,5 +1,5 @@
 ## About me
-My name is Łukasz, currently working at Tech-Studio S.C. based in Katowice City, Poland (https://www.innywymiarstron.pl).
+My name is Łukasz, currently working at Tech-Studio S.C. based in Katowice City, Poland (https://tech-studio.pl).
 
 Technology stack that I am using:
 - Laravel Framework (PHP)
