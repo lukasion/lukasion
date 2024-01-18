@@ -3,8 +3,10 @@ My name is Łukasz, currently working at Tech-Studio S.C. based in Katowice City
 
 Technology stack that I am using:
 - Laravel Framework (PHP)
+- Livewire
 - Vue.js 2 & 3
 - Nuxt.js
+- Alpine.js
 - SCSS
 - Webpack / Docker
 - Laravel Sail, Laravel Homestead
