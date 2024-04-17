@@ -12,6 +12,7 @@ Technology stack that I am using:
 - Laravel Sail, Laravel Homestead
 
 Currently learning
+- Symfony
 - Next.js
 - React.js
 - Material UI
