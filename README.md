@@ -5,7 +5,7 @@ Technology stack that I am using:
 - PHP - mainly Laravel Framework
 - JavaScript - mainly Vue.js 2 & 3
 - Node.js - Nuxt.js, Express
-- Livewire, Inertia.js, Alpine.js
+- Inertia.js, Livewire, Alpine.js
 - SCSS & Tailwind
 - Vite / Webpack
 - Docker
